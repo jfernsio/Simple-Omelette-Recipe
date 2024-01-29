@@ -1,3 +1,3 @@
 # Simple-Omelette-Recipe-Page
 
-frontendmentot
+frontendmentor
